@@ -1,7 +1,7 @@
 # Cryptocurrencies
 
 ## Objective of the analysis:
-The client, Martha, is a senior manager for the Advisory Services Team at Accountability Accounting, one of your most important clients. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
+The client, Martha, is a senior manager for the Advisory Services Team at Accountability Accounting, one of your most important clients. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies. So, they’ve asked to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment. <br/>
 The data Martha will be working with is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output for what Martha is looking for, she has decided to use unsupervised learning. To group the cryptocurrencies, Martha decided on a clustering algorithm. She’ll use data visualizations to share her findings with the board.
 
 ### Deliverables:
@@ -11,7 +11,7 @@ The data Martha will be working with is not ideal, so it will need to be process
 * Part 4: Visualizing Cryptocurrencies Results
 
 ## Results:
-### The list of 532 tradable cryptocurrencies after preprocessing the dataset.
+### Preprocessing the Data for PCA: The data frame showing 532 tradable cryptocurrencies after preprocessing.
 
 <img width="402" alt="Screen Shot 2023-01-11 at 5 04 03 PM" src="https://user-images.githubusercontent.com/111387025/211796304-00fb422b-3019-47ae-ab2c-173af84d876f.png">
 
